@@ -1,5 +1,5 @@
 {
-    "name": "Blanco_Yuliana_Neopix1",
+    "name": "Blanco_Yuliana_Neopix1.1",
     "description": "",
     "dependencies": {
         "adafruit-circuit-playground-express": "*"
@@ -13,7 +13,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "0.13.60",
+        "target": "0.13.62",
         "targetId": "maker"
     },
     "supportedTargets": [
